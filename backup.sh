@@ -1,2 +1,2 @@
 echo Original file backed up in backup folder...
-sudo cp /etc/nginx/nginx.conf ~/domainBackup/nginx.conf
+sudo cp /etc/nginx/nginx.conf ~/domain-script/nginx.conf
